@@ -1,0 +1,6 @@
+{
+  "name": "Aegis LMS Enterprise",
+  "description": "An enterprise-grade, multi-role E-Learning SaaS platform with advanced analytics, custom curriculum builders, live class tracking, assignment reviews, certification tools, and an AI Study Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
